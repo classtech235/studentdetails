@@ -1,9 +1,9 @@
 Student_details:
 
-Sai 				Ongole
-Kishore				Kadiri
-Abdul				Tirupathi
-Pawan				Chennai
-Shiva				Nerawada
-Rakesh				Krishnapatnam
-Rajesh				Gudur
+Sai 				Ongole					REST		
+Kishore				Kadiri					manual
+Abdul				Tirupathi				selenium
+Pawan				Chennai					appium
+Shiva				Nerawada				python
+Rakesh				Krishnapatnam			postman
+Rajesh				Gudur					sdet
