@@ -1,0 +1,7 @@
+sai_details
+
+Name: Sai
+AADHAR: 8493548350
+Enrollment:
+ADdress:
+phonenumber:
