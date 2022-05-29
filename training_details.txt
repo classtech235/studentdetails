@@ -1,0 +1,5 @@
+Training_details:
+
+Coaching_institute: e-slate technologies
+origin: Bengaluru
+Limited: pvt.ltd
