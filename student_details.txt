@@ -1,9 +1,9 @@
 Student_details:
 
-Sai
-Kishore
-Abdul
-Pawan
-Shiva
-Rakesh
-Rajesh
+Sai 				Ongole
+Kishore				Kadiri
+Abdul				Tirupathi
+Pawan				Chennai
+Shiva				Nerawada
+Rakesh				Krishnapatnam
+Rajesh				Gudur
